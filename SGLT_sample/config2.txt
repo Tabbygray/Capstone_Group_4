@@ -1,0 +1,12 @@
+receptor = 7vsi.pdbqt
+ligand = dapagliflozin.pdbqt
+
+center_x = 38.516
+center_y = 44.151
+center_z = 43.817
+
+size_x = 60
+size_y = 60
+size_z = 60
+
+exhaustiveness = 8
